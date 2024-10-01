@@ -25,5 +25,3 @@ services:
 networks:
   ch03:
     external: true
-
-    fafafafa
