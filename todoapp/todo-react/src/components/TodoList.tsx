@@ -1,5 +1,5 @@
 import { TodoTitle } from "./TodoTitle";
-import { TodoItem } from "../TodoItem";
+import { TodoItem } from "./Todoitem";
 import { Todo } from "../types/Todo";
 
 export const TodoList = ({
